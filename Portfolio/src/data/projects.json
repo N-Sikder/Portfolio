@@ -1,0 +1,35 @@
+[
+    {
+      "title": "CozmicTechnology",
+      "imageSrc": "project.png",
+      "description": "This project,demonstrates web design proficiency using HTML, CSS, and Bootstrap.",
+      "skills": ["HTML", "CSS", "JavaScript","Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/CozmicTechnology_Front-End_Design"
+    },
+    {
+      "title": "TicTacToe",
+      "imageSrc": "project.png",
+      "description": "An efficient and intuitive Tic-TacToe game built with React and Chakra UI.",
+      "skills": ["React", "ChakraUI", "CSS","JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/TicTacToe-React-ChakraUI"
+    },
+    {
+      "title": "Guess My Number",
+      "imageSrc": "project.png",
+      "description": "A browser game built with HTML, CSS, and vanilla JavaScript to play a number guessing game.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/GuessMyNumber"
+    },
+    {
+      "title": "Aggrios",
+      "imageSrc": "project.png",
+      "description": "This project,demonstrates complex and critical web design proficiency using HTML, CSS, and Bootstrap.",
+      "skills": ["HTML", "CSS", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/Agrios"
+    }
+  ]
+  

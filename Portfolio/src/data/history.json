@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Content Writer",
+      "organisation": "Fiverr",
+      "startDate": "June, 2020",
+      "endDate": "December, 2022",
+      "experiences": ["Worked as a Content Writer", "Helped people to express their ideas"],
+      "imageSrc": "fiverr.png"
+    },
+    {
+      "role": " Tester and Debugger (Intern)",
+      "organisation": "Jamuna Meter Industries Limited",
+      "startDate": "April, 2023",
+      "endDate": "June, 2023",
+      "experiences": ["Worked with the Chinese Dev Team", "Helped the Production Team"],
+      "imageSrc": "microsoft.png"
+    }
+    
+  ]
+  
