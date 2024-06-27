@@ -30,6 +30,14 @@
       "skills": ["HTML", "CSS", "Bootstrap"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/Agrios"
+    },
+    {
+      "title": "Quizz-App",
+      "imageSrc": "project.png",
+      "description": "A dynamic quiz app built with React",
+      "skills": ["HTML", "CSS", "React","JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/Quizz-App"
     }
   ]
   
