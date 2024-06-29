@@ -2,7 +2,7 @@
     {
       "title": "CozmicTechnology",
       "imageSrc": "project.png",
-      "description": "This project,demonstrates web design proficiency using HTML, CSS, and Bootstrap.",
+      "description": "This project demonstrates web design proficiency using HTML, CSS, and Bootstrap.",
       "skills": ["HTML", "CSS", "JavaScript","Bootstrap"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/CozmicTechnology_Front-End_Design"
@@ -10,7 +10,7 @@
     {
       "title": "TicTacToe",
       "imageSrc": "project.png",
-      "description": "An efficient and intuitive Tic-TacToe game built with React and Chakra UI.",
+      "description": "An efficient and intuitive TicTacToe game built with React and Chakra UI.",
       "skills": ["React", "ChakraUI", "CSS","JavaScript"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/TicTacToe-React-ChakraUI"
@@ -26,15 +26,15 @@
     {
       "title": "Aggrios",
       "imageSrc": "project.png",
-      "description": "This project,demonstrates complex and critical web design proficiency using HTML, CSS, and Bootstrap.",
+      "description": "This project demonstrates complex and critical web design proficiency using HTML, CSS, and Bootstrap.",
       "skills": ["HTML", "CSS", "Bootstrap"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/Agrios"
     },
     {
-      "title": "Quizz-App",
+      "title": "Quiz-App",
       "imageSrc": "project.png",
-      "description": "A dynamic quiz app built with React",
+      "description": "A dynamic quiz app built with React.",
       "skills": ["HTML", "CSS", "React","JavaScript"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/Quizz-App"
