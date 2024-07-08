@@ -38,6 +38,14 @@
       "skills": ["HTML", "CSS", "React","JavaScript"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/Quizz-App"
+    },
+    {
+      "title": "Single-Page-Ecommerce",
+      "imageSrc": "project.png",
+      "description": "A responsive e-commerce site built with HTML, CSS, and JavaScript.",
+      "skills": ["HTML", "CSS","JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/Single-Page-Ecommerce"
     }
   ]
   
