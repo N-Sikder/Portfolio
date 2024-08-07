@@ -46,6 +46,14 @@
       "skills": ["HTML", "CSS","JavaScript"],
       "demo": "https://www.example.com",
       "source": "https://github.com/N-Sikder/Single-Page-Ecommerce"
+    },
+    {
+      "title": "Insight-Blog-Website",
+      "imageSrc": "project.png",
+      "description": "A responsive and beautiful blog website created with HTML and CSS tailwind.",
+      "skills": ["HTML", "Tailwind","JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/N-Sikder/Insight-Blog-Website"
     }
   ]
   

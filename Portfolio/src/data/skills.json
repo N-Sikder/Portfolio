@@ -26,5 +26,9 @@
     {
       "title": "Figma",
       "imageSrc": "figma.png"
+    },
+    {
+      "title": "Tailwind",
+      "imageSrc": "tailwind.png"
     }
   ]
